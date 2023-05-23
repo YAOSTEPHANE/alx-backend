@@ -14,8 +14,8 @@ class Config(object):
     """
     Configuration for Babel
     """
-    LANGUAGES = ["en", "fr"]
-    BABEL_DEFAULT_LOCALE = "en"
+    LANGUAGES = ["fr"]
+    BABEL_DEFAULT_LOCALE = "fr"
     BABEL_DEFAULT_TIMEZONE = "UTC"
 
 
